@@ -2,16 +2,16 @@
 
 This project is a beginner-friendly Machine Learning classification model that predicts whether a breast tumor is **Malignant** or **Benign** using the Breast Cancer dataset from `scikit-learn`.
 
-## 🚀 Project Overview
+Project Overview
 Breast cancer classification is a supervised learning problem where the goal is to classify tumors based on numeric features extracted from medical images.
 
 This project uses **Logistic Regression**, a simple and effective classification algorithm, to learn patterns from the data and make predictions on unseen cases.
 
-> ⚠️ This project is for educational purposes only and should not be used for real medical diagnosis.
+This project is for educational purposes only and should not be used for real medical diagnosis.
 
 ---
 
-## 🧠 Dataset
+##  Dataset
 - Source: `sklearn.datasets.load_breast_cancer`
 - Features: 30 numeric tumor characteristics
 - Target:
@@ -20,7 +20,7 @@ This project uses **Logistic Regression**, a simple and effective classification
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -29,10 +29,6 @@ This project uses **Logistic Regression**, a simple and effective classification
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 - Accuracy: **~95.6%**
 - Evaluation Metric: Accuracy Score & Confusion Matrix
-
----
-
-## 📁 Project Structure
